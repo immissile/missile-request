@@ -1,0 +1,27 @@
+{
+  "name": "missile-request",
+  "version": "1.0.0",
+  "description": "implified HTTP request client.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/immissile/missile-request.git"
+  },
+  "keywords": [
+    "http",
+    "request"
+  ],
+  "author": "missile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/immissile/missile-request/issues"
+  },
+  "homepage": "https://github.com/immissile/missile-request#readme",
+  "dependencies": {
+    "lodash-node": "^3.10.1",
+    "request": "^2.67.0"
+  }
+}
